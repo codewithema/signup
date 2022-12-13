@@ -1,0 +1,64 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body{
+    background-image:url(https://as1.ftcdn.net/v2/jpg/03/08/40/12/1000_F_308401242_OUT1qP7dGMi4bcLb4sbFNRCN9g1BV2Nj.jpg);
+    font-family: monospace;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+.sign-up-forms{
+              width:300px;
+              height: 100;
+              box-shadow: 0 0 3px 0 rgba(0,0,0.3);
+              background: rgb(202, 223, 239);
+              padding:15px 15px;
+              margin: 10% auto 0;
+              border-radius: 10px 10px;
+              text-align: center;
+}
+
+.sign-up-forms h1{
+                color:rgb(86, 49, 115);
+                padding: 0 20px;
+                margin-bottom: 20px;
+                text-shadow: 5px 5px 5px rgb(157, 107, 158);
+} 
+
+.input-box{
+          border-radius: 20px;
+          padding: 10px;
+          margin: 10px 0;
+          width:100%;
+          border: 1px solid black;
+}
+
+button{
+      color: rgb(230, 228, 243);
+      width:100%;
+      padding: 10px;
+      border-radius: 20px;
+      font-size: 15px;
+      margin: 10px 0;
+      border: none;
+      outline:none;
+      cursor: progress;
+}
+
+.signup-btn{
+         background-color: rgb(163, 140, 197);
+}
+
+.linkedin{
+        background-color: rgb(106, 83, 169);
+}
+
+.sign-in{
+       padding: 15px 15px;
+}
